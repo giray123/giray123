@@ -1,4 +1,4 @@
-# [![giray songul header](img/giraysongul-github-header.jpg)](https://iam.giraysongul.com)
+# [![giray songul header](img/giraysongul-github-header-2.jpg)](https://iam.giraysongul.com)
 
 <h2 align="center">Hello there! My name is Giray Songul. 👋🤓</h2>
 <p align="left">I'm an Entrepreneur, Full-Stack Developer, Graphic Designer and Content Creator. I generally develop my own projects. However, I try my best to contribute to open source.</p>
@@ -27,8 +27,10 @@ In my spare times, I compose, produce, mix and master music. Check them out!
 ### 📫 Where to find me
 Beware that some of my accounts are only about music:
 <p align='left'>
+<a href="mailto:info@giraysongul.com"><img height="40" src="img/email.png"></a>
+<a href="https://iam.giraysongul.com"><img height="40" src="img/web.png"></a>
 <a href="https://tr.pinterest.com/giraysongul/"><img height="40" src="img/linkedin.png"></a>
-<a href="https://www.instagram.com/giray_songul/"><img height="50" src="img/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/giray_songul/"><img height="40" src="img/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/c/GiraySongul"><img height="40" src="img/youtube.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/giraysongulfansite"><img height="40" src="img/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Giray123"><img height="40" src="img/twitter.jpg"></a>&nbsp;&nbsp;
