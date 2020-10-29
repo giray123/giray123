@@ -5,18 +5,16 @@
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
 
-### 💼 My Projects
-
-### Private
+## :boom: My Private Projects
 Here are 2 of the products that I have developed entirely, unfortunately they are private repos:
 - [Mychordbook](https://www.mychordbook.com) is an interactive chords & lyrics platform for musicians to learn new songs to play with guitar, piano and ukulele.
 - [Tagit](https://tagit.ai) is an cloud storage powered by artificial intelligence
 
-### Open Source
+## :hearts: &nbsp;My Open Source
 - [Javascript Autocomplete](https://github.com/giray123/javascript-autocomplete) is autocomplete snippet for HTML input fields built with native javascript and no dependencies.
 - [Auto-expandable Textarea for Javascript](https://github.com/giray123/javascript-autoexpandable-textarea) is auto-growing textarea snippet for HTML built with native javascript and no dependencies.
 
-### Music
+## :notes: &nbsp;Music
 In my spare times, I compose, produce, mix and master music. Check them out!
 <p align='left'>
 <a href="https://www.youtube.com/channel/UCQ4_D96FY5r12HGbrrCF1sw"><img height="40" src="img/youtube.png"></a>&nbsp;&nbsp;
@@ -24,7 +22,7 @@ In my spare times, I compose, produce, mix and master music. Check them out!
 <a href="https://music.apple.com/us/artist/giray-song%C3%BCl/984537306"><img height="40" src="img/apple.png"></a>&nbsp;&nbsp;
 </p>
 
-### 📫 Where to find me
+### 📫 &nbsp;Where to find me
 Beware that some of my accounts are only about music:
 <p align='left'>
 <a href="mailto:info@giraysongul.com"><img height="40" src="img/email.png"></a>&nbsp;&nbsp;
