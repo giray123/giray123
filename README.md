@@ -1,6 +1,4 @@
-<p align='left'>
-  <a href="https://iam.giraysongul.com"><img src="img/giraysongul-github-header.jpg"></a>
-</p>
+# [![giray songul header](img/giraysongul-github-header.jpg)](https://iam.giraysongul.com)
 
 <h2 align="center">Hello there! My name is Giray Songul. 👋🤓</h2>
 <p align="left">I'm an Entrepreneur, Full-Stack Developer, Graphic Designer and Content Creator. I generally develop my own projects. However, I try my best to contribute to open source.</p>
