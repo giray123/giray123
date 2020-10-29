@@ -33,6 +33,6 @@ Beware that some of my accounts are only about music:
 <a href="https://www.instagram.com/giray_songul/"><img height="40" src="img/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/c/GiraySongul"><img height="40" src="img/youtube.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/giraysongulfansite"><img height="40" src="img/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Giray123"><img height="40" src="img/twitter.jpg"></a>&nbsp;&nbsp;
-<a href="https://tr.pinterest.com/giraysongul/"><img height="40" src="img/linkedin.png"></a>
+<a href="https://twitter.com/Giray123"><img height="40" src="img/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://tr.pinterest.com/giraysongul/"><img height="40" src="img/pinterest.png"></a>
 </p>
