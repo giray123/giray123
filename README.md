@@ -22,12 +22,12 @@ In my spare times, I compose, produce, mix and master music. Check them out!
 <a href="https://music.apple.com/us/artist/giray-song%C3%BCl/984537306"><img height="40" src="img/apple.png"></a>&nbsp;&nbsp;
 </p>
 
-### 📫 &nbsp;Where to find me
+## 📫 &nbsp;Where to find me
 Beware that some of my accounts are only about music:
 <p align='left'>
 <a href="mailto:info@giraysongul.com"><img height="40" src="img/email.png"></a>&nbsp;&nbsp;
 <a href="https://iam.giraysongul.com"><img height="40" src="img/web.png"></a>&nbsp;&nbsp;
-<a href="https://tr.pinterest.com/giraysongul/"><img height="40" src="img/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/giraysongul/"><img height="40" src="img/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/giray_songul/"><img height="40" src="img/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://youtube.com/c/GiraySongul"><img height="40" src="img/youtube.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/giraysongulfansite"><img height="40" src="img/facebook.png"></a>&nbsp;&nbsp;
