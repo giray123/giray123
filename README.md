@@ -3,16 +3,14 @@
 <h2 align="center">Hello there! My name is Giray Songul. 👋🤓</h2>
 <p align="left">I'm an Entrepreneur, Full-Stack Developer, Graphic Designer and Content Creator. I generally develop my own projects. However, I try my best to contribute to open source.</p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
-
 ## :boom: My Private Projects
 Here are 2 of the products that I have developed entirely, unfortunately they are private repos:
 - [Mychordbook](https://www.mychordbook.com) is an interactive chords & lyrics platform for musicians to learn new songs to play with guitar, piano and ukulele.
 - [Tagit](https://tagit.ai) is an cloud storage powered by artificial intelligence
 
 ## :hearts: &nbsp;My Open Source Projects
-- [Javascript Autocomplete](https://github.com/giray123/javascript-autocomplete) is autocomplete snippet for HTML input fields built with native javascript and no dependencies.
-- [Auto-expandable Textarea for Javascript](https://github.com/giray123/javascript-autoexpandable-textarea) is auto-growing textarea snippet for HTML built with native javascript and no dependencies.
+- [Javascript Autocomplete](https://github.com/giray123/javascript-autocomplete) is an autocomplete snippet for HTML input fields built with native javascript and has no dependencies.
+- [Auto-expandable Textarea for Javascript](https://github.com/giray123/javascript-autoexpandable-textarea) is an auto-growing textarea snippet for HTML textarea built with native javascript and has no dependencies.
 
 ## :notes: &nbsp;Music
 In my spare times, I compose, produce, mix and master music. Check them out!
