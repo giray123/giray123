@@ -19,16 +19,18 @@ Here are 2 of the products that I have developed entirely, unfortunately they ar
 ### Music
 In my spare times, I compose, produce, mix and master music. Check them out!
 <p align='left'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
+<a href="https://www.youtube.com/channel/UCQ4_D96FY5r12HGbrrCF1sw"><img height="30" src="img/youtube.png"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/artist/7qODh67aK33H6n9UIPB4e4"><img height="30" src="img/spotify.png"></a>&nbsp;&nbsp;
+<a href="https://music.apple.com/us/artist/giray-song%C3%BCl/984537306"><img height="30" src="img/apple.png"></a>&nbsp;&nbsp;
 </p>
 
 ### 📫 Where to find me
 Beware that some of my accounts are only about music:
 <p align='left'>
-<a href="https://dev.to/stephenajulu"><img height="50" src="https://github.com/giray123/giray123/img/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://tr.pinterest.com/giraysongul/"><img height="30" src="img/linkedin.png"></a>
+<a href="https://www.instagram.com/giray_songul/"><img height="50" src="img/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://youtube.com/c/GiraySongul"><img height="30" src="img/youtube.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/giraysongulfansite"><img height="30" src="img/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Giray123"><img height="30" src="img/twitter.jpg"></a>&nbsp;&nbsp;
+<a href="https://tr.pinterest.com/giraysongul/"><img height="30" src="img/linkedin.png"></a>
 </p>
