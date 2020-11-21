@@ -6,7 +6,8 @@
 ## :boom: My Private Projects
 Here are 2 of the products that I have developed entirely, unfortunately they are private repos:
 - [Mychordbook](https://www.mychordbook.com) is an interactive chords & lyrics platform for musicians to learn new songs to play with guitar, piano and ukulele.
-- [Tagit](https://tagit.ai) is an cloud storage powered by artificial intelligence
+- [Tagit](https://tagit.ai) is an cloud storage powered by artificial intelligence.
+- [Shortcut Expert](https://shortcutexpert.com) is an platform for all application shortcuts.
 
 ## :hearts: &nbsp;My Open Source Projects
 - [Javascript Autocomplete](https://github.com/giray123/javascript-autocomplete) is an autocomplete snippet for HTML input fields built with native javascript and has no dependencies.
