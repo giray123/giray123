@@ -9,7 +9,7 @@ Here are 2 of the products that I have developed entirely, unfortunately they ar
 - [Tagit](https://tagit.ai) is an cloud storage powered by artificial intelligence.
 
 ## :hearts: &nbsp;My Open Source Projects
-- [Shortcut Expert](https://shortcutexpert.com) is an platform for all application shortcuts, providing the best user experience. 
+- [Shortcut Expert](https://github.com/giray123/shortcutexpert) is an platform for all application shortcuts, providing the best user experience. 
 - [Javascript Autocomplete](https://github.com/giray123/javascript-autocomplete) is an autocomplete snippet for HTML input fields built with native javascript and has no dependencies.
 - [Auto-expandable Textarea for Javascript](https://github.com/giray123/javascript-autoexpandable-textarea) is an auto-growing textarea snippet for HTML textarea built with native javascript and has no dependencies.
 
